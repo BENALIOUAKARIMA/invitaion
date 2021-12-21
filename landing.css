@@ -1,0 +1,660 @@
+
+.one {
+    display: flex;
+    margin-left: 50px;
+    
+}
+
+.one ul{
+    display: flex;
+    height: 30px;
+}
+
+.one ul li {
+    margin-left: 30px;
+    margin-top: 20px;
+    color: black;
+    text-decoration: none;
+    list-style: none;
+}
+.one ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    margin-left: 15px;
+
+}
+.listone select{
+    margin-top: 15px;
+    height: 100%;
+    margin-left: 20px;
+    border: none;
+    font-size: 13px;
+}
+.two{
+    display: flex;
+    margin-left: 290px;
+    padding-left: 80px;
+}
+.sign{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    font-size: 15px;
+    border: none;(-)
+}
+
+.log{
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    font-size: 15px;
+    border-color: rgba(255, 255, 255, 0);
+}
+
+.three
+{
+    background-color: black;
+    width: 91%;
+    height: 250px;
+    position: relative;
+    margin-left: 50px;
+   
+}
+.three h1
+{
+    color: white;
+    padding: 50px 0px 5px 40px;
+
+
+}
+.three p
+{
+    color: white;
+    width: 469px;
+    margin-left: 40px;
+
+}
+.three input{
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    margin-left: 40px;
+    border: none;
+}
+.three button{
+    height: 35px;
+    width: 160px;
+    border-radius: 6px;
+    background: linear-gradient(225deg, #FB7B30, #A831A5);
+    border: none;
+    text-decoration: none;
+}
+.three img
+{
+    position: absolute;
+    bottom: -70px;
+    right:80px;
+    width: 400px;
+    height: 330px;
+}
+
+.imog
+{
+    display: flex;
+    align-items: center;
+}
+
+.imog img{
+   width: 145px;
+   margin-top: 100px;
+   margin-left: 50px;
+  
+  
+}
+.four{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.four img{
+    width: 298px;
+    height: 100%;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.four button{
+    width: 50%;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-radius: 6px;
+    background: linear-gradient(225deg, #FB7B30, #A831A5);
+    border: none;
+}
+.get {
+    width: 390px;
+    margin-left: 100px;
+}
+.photo img{
+    width: 300px;
+    margin-right: 70px;
+    height: 500px;
+}
+.five{
+    background-color: black;
+    width: 87%;
+    height: 300px;
+    position: relative;
+    margin-left: 50px;
+   color: white;
+   margin-top: 100px;
+   padding-left: 50px;
+}
+.five h1{
+    width: 40%;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+.five p{
+    padding-left: 83px;
+}
+.signin {
+    height: 35px;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 3px;
+    border: none;
+    border-radius: 4px;
+}
+.explo{
+    height: 35px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 3px;
+    border: none;
+    background: linear-gradient(225deg, #FB7B30, #A831A5);
+    margin-left: 5px;
+    border-radius: 4px;
+}
+.img{
+    display: flex;
+    
+}
+.five img
+{
+    position: absolute;
+    bottom: -70px;
+    right: 50px;
+    width: 500px;
+    height: 330px;
+}
+.btn img{
+    width: 3%;
+    margin-right: 950px;
+    height: 10%;
+    padding-bottom: 122px;
+}
+.signin{
+    background-color: white;
+}
+.get img{
+    width: 30px;
+    margin: 0px 0px -13px -9px;
+}
+.container{
+    display: flex;
+    width: 100px;
+    height: 50%;
+    margin-top: 120px;
+    margin-left:50px;
+}
+.row{
+    display: flex;
+    margin-top: 100px;
+}
+.col img{
+    width: 370px;
+
+}
+.coll img{
+    width: 250px;
+    margin-left: 20px;
+    height: 111%;
+}
+.colt img{
+    width: 250px;
+    margin-left: 20px;
+}
+.cold img{
+    width: 220px;
+    margin-left: 20px;
+}
+.a img{
+    width: 200px;
+    height: 100px;
+    margin-left: 220px;
+    margin-top:-210px;
+}
+.b img {
+    width: 255px;
+    margin-left: 289px;
+    margin-top: -228px;
+}
+.c img {
+    width: 220px;
+    margin-left: 20px;
+    margin-top: -270px;
+    height: 205px;
+}
+
+.nine{
+    background-color: black;
+    width:91%;
+    height: 40%;
+    margin-left: 50px;
+    color: white;
+}
+.nine p{
+    width: 30%;
+    margin-left: 100px;
+    padding-top: 70px;
+}
+.ten{
+    margin-left: 150px;
+}
+.menuone ul li{
+    list-style: none;
+    margin-left: 700px;
+    margin-top: 10px;
+}
+.exp{
+    margin-top: -100px;
+    
+}
+.menutwo ul li{
+    list-style: none;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+.moi{
+    margin-top: -135px;
+    
+}
+.menuthree ul li{
+    list-style: none;
+    margin-left: 900px;
+    margin-top: 10px;
+}
+.pro{
+    margin-top: -135px;
+    
+}
+.menufour ul li{
+    list-style: none;
+    margin-left: 1000px;
+    margin-top: 10px;
+}
+.job{
+    margin-top: -190px;
+    
+}
+.menufour img{
+    margin-left: 60px;
+}
+.insta img{
+    margin-left: 130px;
+    margin-top: -41px;
+}
+.twiter img{
+    margin-left: 160px;
+    margin-top: -41px;
+    
+}
+.icone img {
+    width: 2%;
+    margin-right: 971px;
+    height: 5%;
+    padding-bottom: 208px;
+}
+.iconetwo img {
+    width: 2%;
+    margin-right: 969px;
+    height: 5%;
+    padding-bottom: 173px;
+}
+@media only screen and (max-width:600px) {
+    h1 {
+        font-size: 20px;
+        margin-top: 35px;
+    }
+    .one ul {
+        display: flex;
+        height: 30px;
+        margin-right: -305px;
+    }
+    .three {
+        background-color: black;
+        width: 225%;
+        height: 250px;
+        position: relative;
+        margin-left: 20px;
+    }
+    .three img {
+        position: absolute;
+        bottom: 0px;
+        right: -7px;
+        width: 37%;
+        height: 70%;
+    }
+    .imog img {
+        width: 24%;
+        margin-left: 50px;
+    }
+    .get p{
+        font-size: 9px;
+    }
+    .get h1{
+        font-size: 14px;
+    }
+    .get {
+        width: 390px;
+        margin-left: 21px;
+    }
+    .four button {
+        width: 81%;
+        height: 60px;
+        margin-top: 14px;
+        margin-left: 31px;
+        border-radius: 6px;
+        background: linear-gradient(
+    225deg, #FB7B30, #A831A5);
+        border: none;
+    }
+    .five {
+        background-color: black;
+        width: 199%;
+        height: 300px;
+        position: relative;
+        margin-left: 50px;
+        color: white;
+        margin-top: 100px;
+        padding-left: 50px;
+    }
+    .five img {
+        position: absolute;
+        bottom: -70px;
+        right: 0px;
+        width: 322px;
+        height: 304px;
+    }
+    .five p {
+        padding-left: 49px;
+    }
+    .container{
+        display: inline-block;
+    }
+    .row{
+        display: inline-block;
+    }
+    .col img {
+        width: 755px;
+    }
+    
+    .a img {
+        width: 90%;
+        height: 40%;
+        margin-left: 48px;
+        margin-top: -20px;
+    }
+    .coll img {
+        width: 391px;
+        margin-left: 380px;
+        height: 537px;
+        margin-top: 40px;
+    }
+    .colt img {
+        width: 388px;
+        margin-left: 382px;
+        margin-top: 20px;
+    }
+    .cold img {
+        width: 389px;
+        margin-left: 380px;
+        margin-top: 20px;
+    }
+    .c img {
+        width: 321px;
+        margin-left: 49px;
+        margin-top: 26px;
+        height: 417px;
+    }
+    .b img {
+        width: 323px;
+        margin-left: 48px;
+        margin-top: 30px;
+    }
+    .nine {
+        background-color: black;
+        width: 214%;
+        height: 40%;
+        margin-left: 50px;
+        color: white;
+        margin-top: 198px;
+    }
+    .exp {
+        margin-top: -100px;
+        margin-left: -335px;
+    }
+    .moi {
+        margin-top: -135px;
+        margin-left: -346px;
+    }
+    .pro {
+        margin-top: -135px;
+        margin-left: -363px;
+    }
+    .job {
+        margin-top: -190px;
+        margin-left: -372px;
+    }
+    .ten {
+        margin-left: 150px;
+        width: 169%;
+    }
+    
+}
+@media only screen and (min-width:600px) and (max-width:1000px) {
+    .log {
+        background-color: rgba(255, 255, 255, 0);
+        color: rgb(0, 0, 0);
+        border-radius: 5px;
+        height: 30px;
+        width: 104px;
+        font-size: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        margin-left: 742px;
+    }
+    h1 {
+        font-size: 20px;
+        margin-top: 35px;
+    }
+    .one ul {
+        display: flex;
+        height: 30px;
+        margin-right: -305px;
+    }
+    .three {
+        background-color: black;
+        width: 211%;
+        height: 250px;
+        position: relative;
+        margin-left: 20px;
+    }
+    .photo img {
+        width: 339px;
+        margin-right: 48px;
+        height: 500px;
+        margin-left: 258px;
+    }
+    .three img {
+        position: absolute;
+        bottom: 0px;
+        right: 63px;
+        width: 32%;
+        height: 100%;
+    }
+    .three h1 {
+        color: white;
+        padding: 50px 0px 5px 158px;
+    }
+    .three p {
+        color: white;
+        width: 469px;
+        margin-left: 154px;
+    }
+    .three input {
+        border-radius: 5px;
+        width: 300px;
+        height: 40px;
+        margin-left: 151px;
+        border: none;
+    }
+    .imog img {
+        width: 43%;
+        margin-left: 50px;
+    }
+    .get p{
+        font-size: 19px;
+    }
+    .get h1 {
+        font-size: 36px;
+        width: 352px;
+    }
+    .get {
+        width: 390px;
+        margin-left: 338px;
+    }
+    .four button {
+        width: 81%;
+        height: 60px;
+        margin-top: 14px;
+        margin-left: 31px;
+        border-radius: 6px;
+        background: linear-gradient(
+    225deg, #FB7B30, #A831A5);
+        border: none;
+    }
+    
+    .five {
+        background-color: black;
+        width: 199%;
+        height: 300px;
+        position: relative;
+        margin-left: 50px;
+        color: white;
+        margin-top: 100px;
+        padding-left: 50px;
+    }
+    .five img {
+        display: none;
+    }
+    .five p {
+        padding-left: 49px;
+    }
+    .container{
+        display: inline-block;
+    }
+    .row{
+        display: inline-block;
+    }
+    .col img {
+        width: 864px;
+    }
+    .a img {
+        width: 90%;
+        height: 40%;
+        margin-left: 218px;
+        margin-top: -163px;
+    }
+    .coll img {
+        width: 645px;
+        margin-left: 933px;
+        height: 789px;
+        margin-top: -412px;
+    }
+    .colt img {
+        width: 647px;
+        margin-left: 930px;
+        margin-top: 54px;
+    }
+    .cold img {
+        width: 656px;
+        margin-left: 925px;
+        margin-top: 20px;
+    }
+    .c img {
+        width: 559px;
+        margin-left: 214px;
+        margin-top: 26px;
+        height: 504px;
+    }
+    .b img {
+        width: 559px;
+        margin-left: 215px;
+        margin-top: 77px;
+    }
+    .nine {
+        background-color: black;
+        width: 206%;
+        height: 32%;
+        margin-left: 50px;
+        color: white;
+        margin-top: 198px;
+    }
+    .exp {
+        margin-top: -124px;
+        margin-left: 352px;
+    }
+    .moi {
+        margin-top: -134px;
+        margin-left: 357px;
+    }
+    .pro {
+        margin-top: -131px;
+        margin-left: 358px;
+    }
+    .job {
+        margin-top: -184px;
+        margin-left: 387px;
+    }
+    .ten {
+        margin-left: 150px;
+        width: 169%;
+    }
+    .nine p {
+        width: 30%;
+        margin-left: 72px;
+        padding-top: 70px;
+        font-size: 24px;
+    }
+    .menufour img {
+        margin-left: -214px;
+        margin-top: 38px;
+    }
+    .twiter img {
+        margin-left: 171px;
+        margin-top: -43px;
+    }
+    .ten {
+        margin-left: 150px;
+        width: 169%;
+        font-size: 22px;
+    }
+}
